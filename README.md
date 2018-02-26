@@ -19,7 +19,8 @@ BTC: 1BB44xSWSHwgM2AMP7MScqk2CALuo6A6UY
 
 
 
-##  ScryptChange - see original repository [https://github.com/tiagosh/AltcoinGenerator](https://github.com/tiagosh/AltcoinGenerator)
+##  ScryptChange 
+#### See original repository [https://github.com/tiagosh/AltcoinGenerator](https://github.com/tiagosh/AltcoinGenerator)
 
 This code will not launch a coin ready for production and it does require some upfront work:
 
