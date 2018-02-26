@@ -2,7 +2,7 @@
 Please visit original repository: [https://github.com/tiagosh/AltcoinGenerator](https://github.com/tiagosh/AltcoinGenerator)
 
 # Can I help the project?
-Yes, please do.  Either submit patches or make a donation to the original author's coin addresses:
+Yes, please do.  Either submit patches to the author's respository [https://github.com/tiagosh/AltcoinGenerator](https://github.com/tiagosh/AltcoinGenerator) or make a donation to the original author's coin addresses:
 
 LTC: Lcaey9FP2zdu4C9TSVffDG1DuKh78yCDYT
 
